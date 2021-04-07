@@ -1,0 +1,6 @@
+@import "../../index.css";
+
+
+Button {
+    @apply bg-green-500;
+}
