@@ -17,7 +17,6 @@ const Template = (args) => <Button {...args}></Button>
 export const Default = Template.bind({})
 Default.args = {
   size: 'md',
-  variant: 'primary',
   label: 'Some text'
 }
 
